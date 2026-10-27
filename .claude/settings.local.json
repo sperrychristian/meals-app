@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o /dev/null -w \"%{http_code} %{content_type} %{size_download}\\\\n\" -L --max-time 20 -A \"MealsApp/1.0\" \"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/960px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg\")"
+    ]
+  }
+}
